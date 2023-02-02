@@ -2,3 +2,7 @@ body{
     background-color: aqua;
     color: azure;
 }
+h1{
+    font-style: italic;
+    color: blue;
+}
